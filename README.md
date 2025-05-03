@@ -5,7 +5,7 @@ I'm a tech enthusiast passionate about **Machine Learning**, **Web Development**
 - 🌱 I’m currently learning: Flutter, Supabase, Google Cloud
 - 🔭 I’m working on: Anomaly Detection System for Campus Network
 - 💬 Ask me about: JavaScript, Python, Flutter
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mfarizz)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mfarizz)
 
 ## 🛠 Tech Stack
 
