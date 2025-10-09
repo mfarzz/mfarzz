@@ -147,35 +147,6 @@ console.log(fariz.sayHi());
 
 ---
 
-## 🎨 Recent Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔍 **Network Anomaly Detection** | AI-powered system for detecting unusual network patterns | Python, TensorFlow, Flask | 🟢 Active |
-| 📱 **Campus Mobile App** | Cross-platform app for student services | Flutter, Supabase | 🟡 In Progress |
-| 🌐 **Portfolio Website** | Personal portfolio with modern design | React, TailwindCSS | 🟢 Live |
-| 🤖 **ChatBot Assistant** | Intelligent chatbot for campus queries | Node.js, NLP | 🔴 Planning |
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░  29.8%
-Dart         4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  15.7%
-PHP          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   7.8%
-Other        25 mins         ░░░░░░░░░░░░░░░░░░░░░   1.5%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -201,13 +172,10 @@ Other        25 mins         ░░░░░░░░░░░░░░░░░
   <a href="https://github.com/mfarzz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:muhammad@student.unand.ac.id">
+  <a href="mailto:mfarix730@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/mfarzz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/mfarzz" target="_blank">
+  <a href="https://instagram.com/m.farzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
