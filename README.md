@@ -38,8 +38,8 @@ console.log(fariz.sayHi());
 
 ### 👨‍💻 What I'm Up To
 
-- 🔭 **Current Project:** Building an **Anomaly Detection System** for Campus Network Security
-- 🌱 **Learning Journey:** Mastering **Flutter**, **Supabase**, and **Google Cloud Platform**
+- 🔭 **Current Project:** Building an **Hoax Segementation in Indonesia**
+- 🌱 **Learning Journey:** Mastering **ML**, **JavaScripts**, and **Google Cloud Platform**
 - 🎯 **2025 Goals:** Contribute to more Open Source projects & Build production-ready AI applications
 - 💡 **Always Exploring:** New frameworks, tools, and best practices in software development
 - 📚 **Reading:** Clean Code, System Design, and ML Research Papers
