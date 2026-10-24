@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="assets/hero.svg" alt="Isometric diagram of three stacked layers: DATA, .NET API, and AI / ML, with data cubes rising through them" width="600">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img align="left" width="300" src="assets/hero-light.svg" alt="Isometric diagram of three stacked layers: Data, .NET API, and AI / ML, with data cubes rising through them">
+</picture>
 
 # Muhammad Fariz
 
@@ -8,6 +9,8 @@
 Information Systems, Universitas Andalas · Padang, Indonesia
 
 I'm currently a .NET Developer intern at PT Mitra Integrasi Informatika. I build backend systems for real users, and I bring experience from data analytics and from serving machine-learning models behind APIs.
+
+<br clear="left">
 
 ## Experience
 
