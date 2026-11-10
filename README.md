@@ -40,4 +40,4 @@ I'm currently a .NET Developer intern at PT Mitra Integrasi Informatika. I build
 
 ## Contact
 
-[mfariz.me](https://mfariz.me) · [LinkedIn](https://www.linkedin.com/in/mfarizz) · [email](mfarix730@gmail.com)
+[mfariz.me](https://mfariz.me) · [LinkedIn](https://www.linkedin.com/in/mfarizz) · [Email](mailto:mfarix730@gmail.com)
